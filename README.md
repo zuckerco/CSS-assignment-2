@@ -61,3 +61,5 @@ http://[ your username ].github.io/CSS-assignment-2/
 And here:
 
 http://[ your username ].github.io/CSS-assignment-2/twosides.html
+
+If you need to fix anything after your first commit-and-sync, you will need to commit and sync AGAIN to get your changes up on GitHub. Don't forget to do all your work in your *gh-pages* branch!
