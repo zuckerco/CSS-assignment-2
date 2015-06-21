@@ -28,6 +28,8 @@ You must write style rules in *main.css* to make the HTML page (*index.html*) lo
 
 7. Adjust margins and padding as needed to finish the page and make it look nice.
 
+**A note about the header:** I would like it to stay put when scrolling. However, if you can't figure that out, at least get the H1 to go left and the NAV to got right and inline, as seen in the video.
+
 ##Part 2
 
 Now you will make a different page layout using the same HTML file and new CSS. Make sure you've finished Part 1 first.
