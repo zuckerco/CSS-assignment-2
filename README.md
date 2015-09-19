@@ -16,7 +16,7 @@ You must write style rules in *main.css* to make the HTML page (*index.html*) lo
 
 1. Specify background colors for the three `section` elements, using the IDs that are in the HTML. Each `section` must have a different background color.
 
-2. Specify a width for the `article` element and give it a white background.
+2. Specify a suitable width for the `article` element and give it a white background.
 
 3. Figure out how to center the `h2`, `img`, image source paragraph, and the `article`. There are two different methods for centering (text has one way, and images have a *different* way). **DO NOT center the text inside the `article`!**
 
@@ -34,7 +34,11 @@ You must write style rules in *main.css* to make the HTML page (*index.html*) lo
 
 Now you will make a different page layout using the same HTML file and new CSS. **Make sure you've finished Part 1 first.**
 
-Copy the file *index.html* and name the new copy *twosides.html*. Copy your final *main.css* and name the new copy *twosides.css*. Edit the `link` element in *twosides.html* to attach the new style sheet file.
+* Copy the file *index.html* and name the new copy *twosides.html*.
+
+* Copy your final *main.css* and name the new copy *twosides.css*.
+
+* Edit the `link` element in *twosides.html* to attach the new style sheet file.
 
 You will make your second "Big Cats" page look similar to the second "Sea Mammals" page in [the video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31).
 
@@ -44,11 +48,11 @@ You will make your second "Big Cats" page look similar to the second "Sea Mammal
 
 3. You will find that *percentages* work better than *pixels* or anything else for all widths.
 
-4. Remove the white background from `article`.
+4. Remove the white background from `article`. Best to do this last, because having the background color will help you as you adjust the floats, widths and padding.
 
 5. Adjust padding and margins as needed to finish the page and make it look nice.
 
-**Do not use the *position* property** on any part of the `section` or `article` here. Floats will work.
+**DO NOT use the *position* property** on any part of the `section` or `article` here. Floats will work.
 
 ## Part 3
 
