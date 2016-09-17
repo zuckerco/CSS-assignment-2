@@ -4,9 +4,11 @@ This repo contains your assignment starter files, including three images.
 
 1. **Fork** this repo (make sure you are logged into GitHub).
 
-2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how, [see the previous assignment](https://github.com/macloo/CSS-intro-with-GitHub/blob/master/README.md). **Note:** Make sure you clone the repo with *your name* at the top!
+2. **Clone** your new repo so you have it on your hard drive. Remember to save it into the folder where you are keeping all your projects for this course. If you forgot how, [see the previous assignment](https://github.com/macloo/CSS-intro-with-GitHub-2016/blob/master/README.md).
 
-3. Use your GitHub app to create a **local branch** named *gh-pages*. Switch to that branch and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
+**Note:** Make sure you clone the repo with *your name* at the top!
+
+3. Use your GitHub app to **create a branch** named *gh-pages*. Switch to that branch and do all your work in that branch. Note that the hyphen and all lowercase letters are essential in the branch name *gh-pages*.
 
 ## Part 1
 
@@ -18,7 +20,7 @@ You must write style rules in *main.css* to make the HTML page (*index.html*) lo
 
 2. Specify a suitable width for the `article` element and give it a white background.
 
-3. Figure out how to center the `h2`, `img`, image source paragraph, and the `article`. There are two different methods for centering (text has one way, and images have a *different* way). **DO NOT center the text inside the `article`!**
+3. Figure out how to center the `h2`, the `img`, the image source paragraph, and the `article`. There are two different methods for centering (text has one way, and images have a *different* way). **DO NOT center the text inside the `article`!** This covered in your book and in the videos. If you Google centering, you might find an incorrect method that is old and no longer used.
 
 4. Specify padding for `article`.
 
@@ -72,4 +74,4 @@ If you need to fix anything after your first commit-and-sync, you will need to c
 
 ## Check the rubric and submit in Canvas
 
-Be sure to check the rubric in Canvas and **SUBMIT THE URL of your GitHub repo** there to complete this assignment!
+Be sure to [check the rubric](rubric.md) and **SUBMIT THE URL of your GitHub repo** there to complete this assignment!
