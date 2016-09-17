@@ -20,7 +20,9 @@ All of the above. Plus:
 
 * The new files *twosides.html* and *twosides.css* are in your repo, in the correct locations, according to the instructions under Part 2 here:  https://github.com/macloo/CSS-assignment-2
 
-* All instructions in Part 2 have been followed to alter those two new files. The floats work.
+* All instructions in Part 2 have been followed to alter those two new files.
+
+* The floats work.
 
 **Note:** Maximum screen width will be 1300 pixels, and the content must not touch the left and right edges of the window.
 
@@ -30,7 +32,7 @@ All of the above. Plus:
 
 All of the above. Plus:
 
-* Your HEADER on both pages achieves all criteria listed in Part 1 for the HEADER, and your HEADER looks and behaves like the one shown in this video.
+* Your HEADER on both pages achieves all criteria listed in Part 1 for the HEADER, and your HEADER looks and behaves like the one shown in [this video](https://www.youtube.com/watch?v=RKXZBsOr0JM&list=PLZFU-W6LLeecJuSQh20QUU_gCmS30sLTB&index=31).
 
 * All hexadecimal RGB codes are used correctly. No color words!
 
@@ -44,7 +46,7 @@ All of the above. Plus:
 
 * All text has good contrast against the background color, regardless of which element contains it.
 
-* You could show your final HTML page to anyone, not just your instructor.
+* You could show your two final pages to anyone, not just your instructor.
 
 (All criteria must be met to get 15 points.)
 
