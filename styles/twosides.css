@@ -13,12 +13,6 @@ header h1 {
 	padding-left: 40px;
 }
 
-h2 {
-	text-align: center;
-	padding: 20px;
-	font-size: 50px;
-}
-
 #cougar{
 	background: #8C513A;
 }
@@ -31,10 +25,8 @@ h2 {
 	background: #96AD92;
 }
 
-article {
-	width: 75%;
-	padding: 1em;
-	background: #fff;
+h2 {
+	font-size: 50px;
 }
 
 /* nav styles */
@@ -65,22 +57,31 @@ footer {
 	padding: 0em 5em;
 }
 
-h2,article{
-	margin: auto;
-}
-
-img {
-	display: block;
-	margin: auto;
-}
 
 section > p {
 	text-align: center;
 }
 
+/* Two column stuff */
+
+div { 
+	-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+			box-sizing: border-box;
+	float: left;
+	width: 55%;
+	padding-left: 40px
+	}
+	
+article {
+	float: left;
+	width: 40%;
+	padding: 20px 0
+}
+
 section {
-	clear: both;
-	padding-bottom: 30px;
+	overflow: auto;
+	width: 100%;
 }
 
 /* ----- suggested colors -----
